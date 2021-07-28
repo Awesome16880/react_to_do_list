@@ -1,6 +1,4 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Component } from "react";
 import { useState } from "react";
 import List from "./components/List";
 
