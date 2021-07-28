@@ -1,3 +1,13 @@
+.Done {
+  text-decoration: line-through;
+  color: green;
+}
+
+.notDone {
+  text-decoration: none;
+  color: black;
+}
+
 .App {
   text-align: center;
 }
